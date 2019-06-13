@@ -1,1 +1,1 @@
-# Web-HTML-HW
+# JavaScript HW
